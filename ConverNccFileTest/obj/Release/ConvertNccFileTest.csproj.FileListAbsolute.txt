@@ -1,0 +1,14 @@
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConverNccFileTest\bin\Release\test1.html
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConverNccFileTest\bin\Release\test2.html
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConverNccFileTest\bin\Release\ConverNccFileTest.dll
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConverNccFileTest\bin\Release\ConverNccFileTest.pdb
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConverNccFileTest\bin\Release\ConvertNCCFile.dll
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConverNccFileTest\bin\Release\nunit.framework.dll
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConverNccFileTest\bin\Release\HtmlAgilityPack.dll
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConverNccFileTest\bin\Release\ConvertNCCFile.pdb
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConverNccFileTest\bin\Release\nunit.framework.xml
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConverNccFileTest\bin\Release\HtmlAgilityPack.pdb
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConverNccFileTest\bin\Release\HtmlAgilityPack.xml
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConverNccFileTest\obj\Release\ConvertNccFileTest.csprojResolveAssemblyReference.cache
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConverNccFileTest\obj\Release\ConverNccFileTest.dll
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConverNccFileTest\obj\Release\ConverNccFileTest.pdb

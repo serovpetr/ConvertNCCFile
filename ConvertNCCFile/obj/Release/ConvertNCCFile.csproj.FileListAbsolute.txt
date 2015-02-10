@@ -1,0 +1,9 @@
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConvertNCCFile\bin\Release\ConvertNCCFile.dll
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConvertNCCFile\bin\Release\ConvertNCCFile.pdb
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConvertNCCFile\bin\Release\HtmlAgilityPack.dll
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConvertNCCFile\bin\Release\HtmlAgilityPack.pdb
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConvertNCCFile\bin\Release\HtmlAgilityPack.xml
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConvertNCCFile\obj\Release\ConvertNCCFile.csprojResolveAssemblyReference.cache
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConvertNCCFile\obj\Release\ConvertNCCFile.csproj.ResolveComReference.cache
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConvertNCCFile\obj\Release\ConvertNCCFile.dll
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConvertNCCFile\obj\Release\ConvertNCCFile.pdb

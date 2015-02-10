@@ -1,0 +1,11 @@
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConvertNccFileConsoleUI\bin\Debug\ConvertNccFileConsoleUI.exe.config
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConvertNccFileConsoleUI\bin\Debug\ConvertNccFileConsoleUI.exe
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConvertNccFileConsoleUI\bin\Debug\ConvertNccFileConsoleUI.pdb
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConvertNccFileConsoleUI\bin\Debug\ConvertNCCFile.dll
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConvertNccFileConsoleUI\bin\Debug\HtmlAgilityPack.dll
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConvertNccFileConsoleUI\bin\Debug\ConvertNCCFile.pdb
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConvertNccFileConsoleUI\bin\Debug\HtmlAgilityPack.pdb
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConvertNccFileConsoleUI\bin\Debug\HtmlAgilityPack.xml
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConvertNccFileConsoleUI\obj\Debug\ConvertNccFileConsoleUI.csprojResolveAssemblyReference.cache
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConvertNccFileConsoleUI\obj\Debug\ConvertNccFileConsoleUI.exe
+c:\users\egor.putihin\documents\visual studio 2012\Projects\ConvertNCCFile\ConvertNccFileConsoleUI\obj\Debug\ConvertNccFileConsoleUI.pdb
